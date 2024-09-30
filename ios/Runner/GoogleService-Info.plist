@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDTGZfZ-NTaC98FrvJO-gHi5Nng_QURcxM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>949008104796</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.app.bubblegpt</string>
+	<key>PROJECT_ID</key>
+	<string>bubblegpt-8967b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bubblegpt-8967b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:949008104796:ios:ce28fd5fb772e5cf559599</string>
+</dict>
+</plist>

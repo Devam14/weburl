@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "58042224281",
+    "project_id": "web-url-52b6d",
+    "storage_bucket": "web-url-52b6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58042224281:android:4f971f05b4ee15fa78b208",
+        "android_client_info": {
+          "package_name": "com.app.bubblegpt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58042224281-3c3bo3cnehgucq7m917o6fe097a7aeq6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC175Nj2Emqp7WSDLAKojOgrYSrr3pvXn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58042224281-3c3bo3cnehgucq7m917o6fe097a7aeq6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "58042224281-vcop1tfpb0eg0lsgesls9auspb3oochr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.bubblegpt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
